@@ -1,0 +1,29 @@
+{
+  "name": "annef",
+  "version": "1.0.0",
+  "description": "Annef is a Node.js module providing various cryptographic utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annef32/annef"
+  },
+  "dependencies": {
+	  "loginovy-js": "1.0.0",
+"denisgorlov": "1.0.0",
+"mod-petrivany": "1.0.0",
+"vo21-module": "1.0.0",
+"elizabethmiller-v2": "1.0.0",
+"spleef": "1.0.0",
+"vl75": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annef32/annef/issues"
+  },
+  "homepage": "https://github.com/annef32/annef#readme"
+}
